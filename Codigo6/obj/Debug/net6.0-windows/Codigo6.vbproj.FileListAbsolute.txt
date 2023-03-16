@@ -1,0 +1,17 @@
+C:\Users\soned\Videos\programas vs\Codigo6\bin\Debug\net6.0-windows\Codigo6.exe
+C:\Users\soned\Videos\programas vs\Codigo6\bin\Debug\net6.0-windows\Codigo6.deps.json
+C:\Users\soned\Videos\programas vs\Codigo6\bin\Debug\net6.0-windows\Codigo6.runtimeconfig.json
+C:\Users\soned\Videos\programas vs\Codigo6\bin\Debug\net6.0-windows\Codigo6.dll
+C:\Users\soned\Videos\programas vs\Codigo6\bin\Debug\net6.0-windows\Codigo6.pdb
+C:\Users\soned\Videos\programas vs\Codigo6\obj\Debug\net6.0-windows\Codigo6.vbproj.AssemblyReference.cache
+C:\Users\soned\Videos\programas vs\Codigo6\obj\Debug\net6.0-windows\Codigo6.Form1.resources
+C:\Users\soned\Videos\programas vs\Codigo6\obj\Debug\net6.0-windows\Codigo6.vbproj.GenerateResource.cache
+C:\Users\soned\Videos\programas vs\Codigo6\obj\Debug\net6.0-windows\Codigo6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soned\Videos\programas vs\Codigo6\obj\Debug\net6.0-windows\Codigo6.AssemblyInfoInputs.cache
+C:\Users\soned\Videos\programas vs\Codigo6\obj\Debug\net6.0-windows\Codigo6.AssemblyInfo.vb
+C:\Users\soned\Videos\programas vs\Codigo6\obj\Debug\net6.0-windows\Codigo6.vbproj.CoreCompileInputs.cache
+C:\Users\soned\Videos\programas vs\Codigo6\obj\Debug\net6.0-windows\Codigo6.dll
+C:\Users\soned\Videos\programas vs\Codigo6\obj\Debug\net6.0-windows\refint\Codigo6.dll
+C:\Users\soned\Videos\programas vs\Codigo6\obj\Debug\net6.0-windows\Codigo6.pdb
+C:\Users\soned\Videos\programas vs\Codigo6\obj\Debug\net6.0-windows\Codigo6.genruntimeconfig.cache
+C:\Users\soned\Videos\programas vs\Codigo6\obj\Debug\net6.0-windows\ref\Codigo6.dll
